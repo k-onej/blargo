@@ -1,0 +1,16 @@
+body {
+    background-color: #635080;
+    font-family: monospace;
+}
+
+@media screen and (orientation: landscape) {
+    #center {
+        margin: auto;
+        width: 50%;
+        border: 3px solid #7b5080;
+        padding: 10px
+    }
+}
+#links {
+    text-align: center;
+}
